@@ -10,5 +10,9 @@ public class Main {
         FactorX.Planets="2";
         FactorX.Star="10000";
 
+        FeatureSun Xfact=new FeatureSun();
+        Xfact.color="green";
+        
+
     }
 }
