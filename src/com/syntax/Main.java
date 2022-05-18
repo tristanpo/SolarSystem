@@ -13,6 +13,10 @@ public class Main {
         FeatureSun Xfact=new FeatureSun();
         Xfact.color="green";
         
-
+    // adding the features for the star in the solar system
+        featureStars FacX =new featureStars();
+        FacX.color=green;
+        FacX.radius="123123123123123km";
+        FacX.size="999999999m";
     }
 }
